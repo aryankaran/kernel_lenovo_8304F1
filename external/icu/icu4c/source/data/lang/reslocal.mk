@@ -1,0 +1,1 @@
+LANG_SOURCE_LOCAL = doi.txt mai.txt mni.txt sa.txt sd.txt sdi.txt sat.txt

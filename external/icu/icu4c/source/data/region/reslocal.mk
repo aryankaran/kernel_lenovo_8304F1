@@ -1,0 +1,1 @@
+REGION_SOURCE_LOCAL = sd.txt sa.txt doi.txt mni.txt mai.txt sdi.txt sat.txt
